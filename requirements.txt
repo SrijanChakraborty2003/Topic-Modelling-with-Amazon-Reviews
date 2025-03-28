@@ -1,6 +1,8 @@
-streamlit==1.30.0
+streamlit
 scikit-learn==1.2.2
 nltk==3.8.1
-numpy==1.23.5
+numpy==2.0.2
 pandas==1.5.3
-re
+setuptools==68.2.2
+wheel
+pip
