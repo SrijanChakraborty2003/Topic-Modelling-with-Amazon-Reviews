@@ -3,8 +3,8 @@ import joblib
 import pandas as pd
 
 # Load the saved models
-lda_model = joblib.load("lda_model.pkl")
-vectorizer = joblib.load("vectorizer.pkl")
+lda_model = joblib.load("lda_model (1).pkl")
+vectorizer = joblib.load("vectorizer (1).pkl")
 topic_labels = joblib.load("topic_labels.pkl")
 
 # Streamlit App Title
